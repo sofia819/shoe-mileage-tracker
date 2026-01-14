@@ -194,7 +194,6 @@ export const App: React.FC = () => {
           token={token}
           spreadsheetId={spreadsheetId}
           shoes={shoes}
-          entries={entries}
           setShoes={setShoes}
         />
       )}
